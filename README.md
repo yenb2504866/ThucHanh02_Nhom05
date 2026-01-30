@@ -55,6 +55,8 @@ Phần 3: Google Docs
 
 •	3.1: Định dạng Page Setup, Font, Paragraph
 
-•	3.2: Tạo định dạng  văn bản có dạng theo mẫu
+•	3.2: Định dạng Page Setup, Font, Paragraph
+
+•	3.3: Tạo định dạng  văn bản có dạng theo mẫu
 
 •	3.4: Chia sẻ quyền, kiểm tra History và Meeting
